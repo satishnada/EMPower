@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EMPower</string>
+    <string name="facebook_app_id">230020027825854</string>
+    <string name="fb_login_protocol_scheme">fb230020027825854</string>
+    <string name="login_text">LOGIN WITH FACEBOOK</string>
+    <string name="login_font">Novatica</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fa_map_marker">&#xf3c5;</string>
+
+    <string name="google_api_key">AIzaSyDje2cXyBo3FRLb8GXayGSfLBrSMfq1IlA</string>
+
+</resources>
